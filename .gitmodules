@@ -1,0 +1,3 @@
+[submodule "com_trope"]
+	path = com_trope
+	url = ../com_trope/
