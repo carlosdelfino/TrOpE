@@ -1,3 +1,6 @@
 [submodule "com_trope"]
 	path = com_trope
 	url = git@github.com:FullService/com_trope
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:FullService/TrOpE.wiki.git
