@@ -16,6 +16,18 @@ existentes.
 
 Trope pode ser entendido como a Inovação dos conceitos ao relacionamento da empresa com o trabalhador e o envolvimento das politicas de trabalho.
 
+# Porque o Joomla
+
+Bem quando o projeto foi consebido a instituição que o demandava, estava migrando 
+seus sites para Joomla, inclusive o WebService que iria atender requisições externas 
+de outra instituições  e sites.
+
+Claro há muitas outras opções portanto é fundamental que o os modulos sejam contruidos 
+em camadas, sendo as camadas de integração com o sistema de persistencia plugavel e 
+com o sistema de apresentação, e CMS ou outro gerenciador de apicação plugavel aos 
+módulos do core.
+
+
 # O que o Projeto Precisa?
 
 O projeto TrOpE precisa agora de programadores autodidatas e que adotem o projeto visando torna-lo real e também que aproveitem a oportunidade para se promoverem e o projeto levando o as empresas como um reflexo de bom trabalho.
@@ -41,3 +53,6 @@ Requisitos secundários porem importantes
     publicar oportunidades
   * Facebook -> Publicar oportunidades
   * Orkut -> Publicar oportunidades
+* INtegração com redes sociais altamente qualificadas como:
+  * Lattes
+  * Redes Sociais cientificas.
